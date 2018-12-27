@@ -22,8 +22,6 @@
 hs_err_pid*
 
 target/
-.mvn
-mvnw*
 
 ### IntelliJ IDEA ###
 .idea
